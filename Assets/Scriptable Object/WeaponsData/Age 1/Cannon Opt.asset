@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09af6ba5bced6944598938449ea6072f, type: 3}
+  m_Name: Cannon Opt
+  m_EditorClassIdentifier: 
+  bulletDamage: 3
+  bulletPref: {fileID: 1404988866180155042, guid: b4d6f344b6176f046838bad60d5948a4,
+    type: 3}
+  bulletSpeed: 80
+  wType: 1
+  dispersion: 0
+  fireRate: 0.4
+  reloading: 3
+  holder: 10
+  endless: 0
+  optional: 1
+  open: 0
+  openCost: 200
+  upgradeLvl: 0
+  upgradeCost: 200
+  description: "\u041F\u0443\u0448\u043A\u0438 "
+  weaponName: "\u041F\u0443\u0448\u043A\u0438"
+  modifiable: 1

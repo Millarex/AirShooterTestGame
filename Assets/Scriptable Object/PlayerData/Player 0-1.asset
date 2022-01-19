@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1abf9a0b7805c234d9afc7bd88e908c7, type: 3}
+  m_Name: Player 0-1
+  m_EditorClassIdentifier: 
+  playerPref: {fileID: 3737581951350752563, guid: d762b5d9cef6c1c46a138d16242bac91,
+    type: 3}
+  playerModelsForMenu: {fileID: 4045733858019653301, guid: 80a9d3e12bf7d3a4aae99da1402a3a70,
+    type: 3}
+  mainGuns:
+  - {fileID: 11400000, guid: 181f410aaea47244685688d3ed6720fd, type: 2}
+  - {fileID: 11400000, guid: a5250538d39b6bd4fbd9d5e91925275c, type: 2}
+  optionalGuns:
+  - {fileID: 11400000, guid: 8f816f378da415944a60cfb4f140bbe5, type: 2}
+  age: 0
+  speed: 8
+  health: 4
+  description: "\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0439 \u0441\u0430\u043C\u043E\u043B\u0435\u0442
+    \u21161"
+  planeName: "\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0439 1"
+  curWeapon: {fileID: 11400000, guid: 181f410aaea47244685688d3ed6720fd, type: 2}
+  curOptWeapon: {fileID: 11400000, guid: 8f816f378da415944a60cfb4f140bbe5, type: 2}
+  open: 1
+  openCost: 0

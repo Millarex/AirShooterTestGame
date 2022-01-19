@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09af6ba5bced6944598938449ea6072f, type: 3}
+  m_Name: Main Player Gun
+  m_EditorClassIdentifier: 
+  bulletDamage: 0
+  bulletPref: {fileID: 1404988866180155042, guid: 50fe30bb6614081468dd31095bdca45e,
+    type: 3}
+  bulletSpeed: 50
+  wType: 0
+  dispersion: 0.2
+  fireRate: 0.3
+  reloading: 2
+  holder: 20
+  endless: 0
+  optional: 0
+  open: 1
+  openCost: 0
+  upgradeLvl: 0
+  upgradeCost: 200
+  description: "\u041E\u0441\u043D\u043E\u0432\u043D\u044B\u0435 \u043F\u0443\u043B\u0435\u043C\u0435\u0442\u044B"
+  weaponName: "\u041E\u0441\u043D\u043E\u0432\u043D\u044B\u0435 \u043F\u0443\u043B\u0435\u043C\u0435\u0442\u044B"
+  modifiable: 1
